@@ -52,7 +52,7 @@ appender is simply a destination for log events.
 
 This can be done in muplitple ways, a simple `logback.xml` file in the default resource location could also suffice.
 
-A stripped down version of a sample configutation will look like this:
+A simplified example of a sample configuration appears as follows:
 
 ```yaml
 <?xml version="1.0" encoding="UTF-8"?>
